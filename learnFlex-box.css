@@ -1,0 +1,42 @@
+.flex-box{
+  
+    background-color: #aaa;
+    
+}
+
+.box-1{
+    display:flex;
+    justify-content:space-between;   
+    background-color:yellow;
+    min-width: 200px;
+    min-height: 200px;
+    background-size: cover;
+}
+
+.box-2{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    min-width: 200px;
+    background-color:red;
+    min-height: 200px;
+    background-size: cover;
+
+}
+
+.box-3{
+    display: flex;
+    flex-direction: column-reverse;
+    min-height: 200px;
+    min-width:200px;
+    background-color: aqua;
+    flex-grow: 1;
+    background-size: cover;
+}
+
+.ofbox{
+    width:100px;
+    height:100px;
+    background-color: black;
+}

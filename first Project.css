@@ -1,0 +1,213 @@
+
+#title{
+    color: red;
+    position: relative;
+    left:5%;
+}
+
+#sentence{
+    position: relative;
+    left: 5%;
+    top: 20px;
+}
+
+#framework-aqua{
+    width: 90%;
+    height: 50px;
+    border: solid aqua 6px;
+    border-radius: 40px;
+    position: relative;
+    top:35px;
+    left: 5%;
+    padding-top: 10px;
+    padding-left:10px;
+}
+#word-1{
+    font-size:25px;
+    color: aqua;
+    display:inline;
+    margin-right: 5px;
+}
+#word-2{
+    font-size: 12px;
+    color: #aaa;
+    bottom: 1px;
+}
+
+#framework-yellow{
+    display: inline-block;
+    position: relative;
+    top: 70px;
+    left:5%;
+    width: 30%;
+    height: 500px;
+    border: yellow solid 6px;
+    
+}
+#framework-yellow p{
+    color: yellow;
+    font-size:25px ;
+    position: relative;
+    top: -15px;
+    left:15px;
+}
+
+
+#framework-yellow table{
+    width: 90%;
+    position: relative;
+    left: 5%;
+    
+}
+
+#framework-yellow table tr{
+    border: #aaa;
+    height: 50px;
+}
+
+#framework-yellow table td{
+    border:yellow solid 5px;
+    border-top: none;
+    border-right: none;
+    height: 40px;
+}
+
+
+#framework-purple{
+    display: inline-block;
+    width: 55%;
+    height: 500px;
+    border: solid purple 6px;
+    position: relative;
+    top: 70px;
+    left: 130px;
+}
+
+#framework-purple p{
+    color: purple;
+    font-size:25px ;
+    position: relative;
+    top: -15px;
+    left:15px;
+}
+
+#framework-lightgreen{
+    display: inline-block;
+    position: relative;
+    left: 5%;
+    top:120px;
+    width: 35%;
+    height:400px;
+    border: lightgreen solid 6px;
+}
+#low{
+    color: lightgreen;
+    position:relative;
+    top:90% ;
+    left: 10px;
+}
+#high{
+    color: lightgreen;
+    position: relative;
+    left: 92%;
+    top:81%;
+}
+
+#framework-orange{
+    display: inline-block;
+    height: 400px;
+    width: 50%;
+    border: solid orange 6px;
+    position: relative;
+    top: 105px;
+    left:130px;
+}
+#framework-orange p{
+    color: orange;
+    font-size:25px ;
+    position: relative;
+    top: -15px;
+    left:15px;
+}
+#framework-orange table{
+    width: 90%;
+    position: relative;
+    left: 5%;
+    
+}
+
+#framework-orange table tr{
+    border: #aaa;
+    height: 50px;
+}
+
+#framework-orange table td{
+    border:orange solid 5px;
+    border-top: none;
+    border-right: none;
+    height: 40px;
+}
+.left-td{
+    border-left: none !important;
+    padding-left:10px;
+}
+
+
+#framework-darkBlue{
+    position: relative;
+    top: 200px;
+    left: 5%;
+    width: 91%;
+    height: 200px;
+    border: solid darkblue 6px;
+    border-radius: 90px;
+}
+
+#timeline{
+    color: darkblue;
+    font-size:25px ;
+    position: relative;
+    top: -15px;
+    left:35px;
+}
+#tody{
+    color: darkblue;
+    
+    position: relative;
+    top:-52px;
+    left:40px;
+}
+
+hr{
+    width: 90%;
+    height:3px;
+    background-color: darkblue;
+    position: relative;
+    bottom:10px;
+}
+
+#framework-darkBlue div{
+    background:darkblue;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+#cercle-1{
+    position: relative;
+    bottom: 35px;
+    left:50px;
+}
+
+#cercle-2{
+    position: relative;
+    bottom: 65px;
+    left: 600px;
+}
+
+#cercle-3{
+    position: relative;
+    bottom:95px;
+    left:1280px  ;
+}
+

@@ -1,0 +1,226 @@
+.first-div {
+    width: 100%;
+    height: 330px;
+}
+
+.div-1 {
+    display: flex;
+    width: 100%;
+    height: 80px;
+    justify-content: space-between;
+}
+
+.div-logo {
+    display: flex;
+    flex-direction: column;
+    height: 35px;
+    width: 130px;
+    border: 0.11px solid;
+    align-items: center;
+    justify-content: center;
+}
+
+.proposals {
+    display: flex;
+    width: 500px;
+    height: 30px;
+}
+
+.proposal {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    height: 22px;
+    border: 0.11px solid;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-2 p {
+    margin-top: -20px;
+}
+
+.div-2 h1 {
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.div-3 {
+    display: flex;
+    flex-direction: column;
+    height: 35px;
+    width: 130px;
+    border: 0.11px solid;
+    align-items: center;
+    justify-content: center;
+}
+
+.second-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 443px;
+
+}
+
+.center-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 400px;
+}
+
+.center-div .line-box {
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    height: 130px;
+    margin-top: 40px;
+}
+
+.box-mark div {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 7px solid #f56b00;
+    background:
+        linear-gradient(45deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 43%, #fff 45%, #fff 55%, rgba(0, 0, 0, 0) 57%, rgba(0, 0, 0, 0) 100%),
+        linear-gradient(135deg, #f56b00 0%, #f56b00 43%, #fff 45%, #fff 55%, #f56b00 57%, #f56b00 100%);
+
+}
+
+.box-mark{
+    min-width: 340px;
+}
+.box-mark p {
+    display: inline-block;
+}
+
+.third-div {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 250px;
+
+}
+
+.third-div .center-div2 {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    height: 220px;
+}
+
+.boxMark {
+    display: inline-block;
+    position: relative;
+    left: 120px;
+    width: 100px;
+    height: 100px;
+    border: 7px solid #f56b00;
+    background:
+        linear-gradient(45deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 43%, #fff 45%, #fff 55%, rgba(0, 0, 0, 0) 57%, rgba(0, 0, 0, 0) 100%),
+        linear-gradient(135deg, #f56b00 0%, #f56b00 43%, #fff 45%, #fff 55%, #f56b00 57%, #f56b00 100%);
+}
+
+img {
+    position: relative;
+    top: 60px;
+    max-width: 100px;
+}
+
+.fouthly-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 450px;
+}
+
+table {
+    width: 80%;
+    height: 300px;
+}
+
+.framework {
+    width: 80px;
+    height: 30px;
+    border: solid;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+.ul-position {
+    position: relative;
+    left: 60px;
+}
+
+
+
+.money {
+    position: relative;
+    bottom: 34px;
+    left: 120px;
+}
+
+.litles {
+    margin-left: 120px;
+    font-size: 25px;
+}
+
+.pub {
+    height: 250px;
+}
+
+.fifthly-div {
+    width: 100%;
+    height: 300PX;
+}
+
+.fifthly-div .proposals {
+    position: relative;
+    top: 44%;
+    left: 30%;
+}
+
+.medias {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+
+.image {
+    height: 20px;
+    position: relative;
+    top: 140px;
+    left: 480PX;
+}
+
+
+.media {
+    display: inline-block;
+    position: relative;
+    top: 135px;
+    left: 480px;
+    color: #aaa;
+}
+
+.copyright {
+    position: relative;
+    top: 130px;
+    left: 480px;
+    color: #aaa;
+}
