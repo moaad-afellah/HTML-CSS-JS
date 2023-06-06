@@ -1,0 +1,128 @@
+
+body {
+    background-color: #F0F2F5 ;
+}
+
+#firstdiv{
+    position: relative;
+    display: inline-block;
+    left: 15%;
+    top: 100px;
+    
+}
+#imgfacebook{
+    height: 120px;
+    position: relative;
+    left: -30px;
+    bottom:15px ;
+}
+.word{ 
+    font-size: 28px;
+    margin: -5px;
+    position:relative;
+    bottom: 35px;
+    left: 5px;
+    }
+
+#seconddiv{
+    display: inline-block;
+    width: 390px;
+    height: 330px;
+    position: relative;
+    border-radius: 10px;
+    background-color:#ffffff;
+    box-shadow: 10px 10px 5px  lightblue;;
+    top: 130px;
+    left: 25%;
+}
+input[type="email"]{
+    position: relative;
+    display: block;
+    width: 90%;
+    height: 45px;
+    margin-top: 10px;
+    margin-left: 15px;
+    border-radius: 6px;
+    border: #aaa 0.11px solid ;
+}
+input[type="email"]:focus{
+    border: rgb(30,247,218) 1px solid;
+    outline: none;
+}
+input[type="password"]{
+    position: relative;
+    display: block;
+    width: 90%;
+    height: 45px;
+    margin-top: 10px;
+    margin-left:15px ;
+    border-radius: 6px;
+    border: #aaa 0.11px solid ;
+}
+input[type="password"]:focus{
+    border: rgb(30,247,218) 1px solid;
+    outline: none;   
+}
+input[name="log in"]{
+    position: relative;
+    display: block;
+    width: 90%;
+    height: 45px;
+    margin-top: 10px;
+    margin-left:15px ;
+    border-radius: 6px;
+    background-color: blue;
+}
+#login{
+    color:aliceblue;
+    font-size: 25px;
+    position: absolute;
+    bottom: 155px;
+    left: 154px;
+    text-decoration: none;
+}
+#link{
+    color: blue;
+    position: relative;
+    top: 12px;
+    left:120px ;
+}
+hr{
+    position: relative;
+    width: 90%;
+    top: 20px;
+}
+
+input[name="account"]{
+    position: relative;
+    display: block;
+    width: 45%;
+    height: 40px;
+    margin-top: 10px;
+    margin-left:15px ;
+    border-radius: 6px;
+    background-color:darkgreen;
+    position: relative;
+    top: 33px;
+    left:20%;
+}
+#linkCreatAccount{
+    position: absolute;
+    left: 113px;
+    font-size: 20px;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.lastword{
+    position:relative;
+    display: inline;
+    font-size:18px ;
+    text-decoration: none;
+}
+
+#lastword{
+    position:absolute;
+    bottom: 135px;
+    left: 790px;
+}

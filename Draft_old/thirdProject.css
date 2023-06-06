@@ -1,0 +1,194 @@
+.body-div{
+    display: flex;
+}
+a{
+    font-size: 20px;
+}
+.div-top{
+    display:flex;
+    justify-content: end;
+    border: solid;
+    padding: 2px;        
+    border-radius: 10px;
+}
+.box{
+    width: 35px;
+    height: 35px;
+    border: solid;
+    border-radius: 5px;
+    margin-left: 2px;
+}
+
+.hyphen{
+    border: solid;
+    width: 20px;
+    margin-top: 25px;
+    margin-left: 3px;
+    
+}
+.short-box{
+    border: solid;
+    width: 50%;
+    height: 50%; 
+    margin-top:15%;
+    margin-left:15%;
+}   
+
+.sign-x img{
+    width:30px ;
+    height: 30px;
+    margin-top: 2px;
+    margin-left: 2px;
+}
+
+.title{
+    width: 98%;
+    border: solid;
+    margin-left: 1%;
+    margin-top: 10px;
+}
+
+.title span{
+    font-size: 100px;
+    margin-left:10px;
+}
+
+.link{
+    display: flex;
+    width: 98%;
+    border: solid;
+    margin-left: 1%;
+    margin-top: 10px;    
+    justify-content: space-between;
+}
+.choices{
+    margin-right: 5px;
+}
+.third-div{
+    margin-top: 5PX;
+    margin-left: 1%;
+    width: 45%;
+}
+.search{
+    border: solid;
+    width: 98%;
+}
+.search-music{
+    display: flex;
+    margin: 5px;
+    justify-content: space-between;
+}
+.word-search{
+    font-size: 25px;
+}
+.research-sites{
+    display: flex;
+    justify-content: space-between;
+    width: 53%;
+    border: solid;
+    border-radius: 6px;
+    margin-right: 61px;
+}
+input[type="search"]{
+    font-size: 20px;
+}
+
+input[placeholder="artist name"]{
+    border: solid;
+    margin-right:90px;
+}
+.research-sites img{
+    height: 20px;
+}
+
+.artist-name{
+    display: flex;
+    justify-content: end;
+}
+
+.Go{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+input[value="Go"]{
+    width: 50px;
+    height: 30px;
+    font-size: 20px;
+}
+
+
+.artist-tracks{
+    margin-top: 10PX;
+    width: 96%;
+    border: solid;
+    padding-left: 5px;
+}
+
+.artist-tracks p{
+    margin-top: -15px;
+}
+
+.big-div{
+    margin-top: 6px;
+    margin-left:10px;
+    width: 72.4%;
+    border: solid;
+}
+
+.div-1{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.information{
+    margin-left: 20px;
+}
+.information p{
+    margin-top: -15px;
+}
+
+.album{
+    margin-right: 20px;
+}
+
+.album-art{
+    width: 30%;
+    height:180px ;
+    border: solid;
+    margin-top: 20px;
+}
+
+
+.list-album{
+    border: solid;
+    height:140px;
+    overflow: auto;
+}
+
+.div-2{
+    width: 96%;
+    height: 40%;
+    margin-left: 2%;
+}
+
+.equation{
+    width: 50%;
+    border: solid;
+}
+
+.div-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.radios{
+    display: block;
+}
+
+input[type="submit"]{
+    border-radius: 6px;
+}
