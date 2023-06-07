@@ -1,23 +1,58 @@
 html,
 body {
+  display: flex;
   margin: 0;
   font-family: "PingFang SC", "Microsoft Yahei", sans-serif;
 }
 
-* {
-  box-sizing: border-box;
+/* style left panel*/
+#list-action{
+  height: 100vh;
+  background-color:snow;
 }
 
-ul,
-li {
-  padding: 0;
-  margin: 0;
+#left-panel .title{
+  display: flex;
+  height: 10vh;
+  background-color:darkslategray;
+  align-items: center;
+  justify-content: space-around;
 }
 
-li {
-  list-style: none;
+#left-panel .title .control_button img{
+  height: 4vh;
 }
 
-h1 {
-  color: blue;
+#left-panel .title h1{
+  font-size: 30px;
+  color: brown;
+  font-family: monospace;
 }
+
+#left-panel .list  .action{
+  display: flex;
+  justify-content: space-between;
+  height: 10vh;
+  cursor: po;
+}
+
+#left-panel .list  .action:hover{
+  background-color:rgb(240, 231, 231);
+  border-left: solid 0.28vw rgb(59, 59, 185);
+}
+
+#left-panel .list  .action h2{
+  margin-left: 1vw;
+  width: 200px;
+  font-family:'Courier New', Courier, monospace;
+  color:darkslategrey;
+}
+
+#left-panel .list  .action img{
+  height: 5vh;
+  margin-top: 15px;
+  margin-left: 1vw;
+}
+/* end left panel*/
+
+
