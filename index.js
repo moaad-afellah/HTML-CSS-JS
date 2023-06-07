@@ -1,7 +1,15 @@
-const uis = [{
-  href: "01-html-navBar",
-  text: "Header NavBar"
-}];
+const uis = [
+  {
+  href: "01-Responsive-navBar",
+  text: "Responsive NavBar"
+},
+
+{
+  href: "02-Responsive-left-panel  ",
+  text: "Responsive left panel"
+},
+
+];
 
 
 function createLink(item) {
